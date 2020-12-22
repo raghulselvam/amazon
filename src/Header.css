@@ -1,0 +1,94 @@
+.app_header{
+    display: flex;
+    background-color: black;
+    padding: 10px;
+    align-items: center;
+    position: sticky;
+    top:0;
+    
+    
+}
+.header_leftside{
+    margin-right: 15px;
+    display: flex;
+    align-items: center;
+}
+
+.header_info{
+    color: white;
+    font-size: 10px;
+    margin-right: 10px;
+    font-weight: bolder;
+    }
+.header_info > p{
+    color:gray;
+}
+.checkout_page{
+    text-decoration: none;
+    color: white;
+    
+
+}
+.logins{
+    text-decoration: none;
+    cursor: pointer;
+    color: white;
+}
+
+
+.location_icon{
+
+   font-size: 10px;
+   padding: 3px;
+    color: gray;
+   size: 5px;
+}
+
+.header_logo{
+    object-fit: contain;
+    height: 25px;
+    color: white;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.header_center{
+    flex: 0.9;
+    display: flex;
+    border-radius: 5px;
+    border-width: 10px;
+    border: 2px solid orange;
+    margin-right: 15px;
+    background-color: orange;
+    align-items: center;
+    min-width: 200px;
+    
+}
+.input_box{
+    width: 100%;
+    height: 30px;
+    border: none;
+    outline-width: 0;  
+    margin-right: 5px; 
+     
+}
+.header_right{
+    color: white;
+     display: flex;
+     
+    
+}
+.items{
+    font-size: 11px;
+    margin-right: 20px;
+    display: flex;
+    flex-direction: column;
+    
+}
+.first_item{
+    margin-right: 20px;
+    font-size: 11px;
+}
+.second_item >span{
+    padding-left: 3px;
+   
+}

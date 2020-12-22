@@ -1,0 +1,10 @@
+.checkoutimage{
+    width: 100%;
+}
+.checkout{
+    background-color: white;
+    display: flex;
+}
+.checkout_title{
+   margin: 10px;
+}

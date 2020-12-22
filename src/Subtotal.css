@@ -1,0 +1,15 @@
+.subtotal{
+    background-color: lightgray;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    
+}
+.button{
+    background-color: orange;
+}
+.subclass{
+    font-size: 14px;
+    padding: 5px;
+    align-items: center;
+}
